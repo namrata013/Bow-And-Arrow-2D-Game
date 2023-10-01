@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5dd4f0ae739aa2f4fa6dd2062bd8f6d6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - arrow: {instanceID: 0}
+  - bowDrawn: {fileID: 21300000, guid: f051acc42bee637458e4e08ceaad0f19, type: 3}
+  - bowRest: {fileID: 21300000, guid: 96bb61180a7c30e4dbabdf7059131dcc, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

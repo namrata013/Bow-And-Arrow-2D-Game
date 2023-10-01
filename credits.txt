@@ -1,0 +1,9 @@
+1. url(s):
+pngtree.com
+2D Sprites Pack (free) -unity asset store
+Shooting Sound audio pack (free) -unity asset store
+
+2. Inspiration:
+Bow and arrow games are known since a long time, they require concentration and trajectory predicting logic from players and creating arrow 
+projectile of varying speeds is something challanging to the designer.
+I've played such a tv video game long ago, but there isn't any particular name game that was in my mind while making this game.
